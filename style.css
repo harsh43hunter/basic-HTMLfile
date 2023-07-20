@@ -1,0 +1,49 @@
+p {
+    font-size:25px;
+    margin: 0px;
+    }
+    
+    #p1 {
+        color: blue;
+    }
+    
+    .para {
+        text-decoration: underline;
+    }
+    
+    * {
+        /* background-color: wheat;    */
+    }
+    
+    header, footer {
+        height: 20%;
+        width: 100%;
+        background-color: lightblue;
+        clear: both;
+    }
+    
+    html, body {
+        height: 100%;
+        width: 100%;
+    }
+    
+    aside {
+        height: 60%;
+        width: 15%;
+        background-color: lightcoral;
+    }
+    
+    main {
+        height: 60%;
+        width: 70%;
+        background-color: lightgreen;
+        float: left;
+    }
+    
+    #left-sidebar {
+        float: left;
+    }
+    
+    #right-sidebar {
+        float: right;
+    }
